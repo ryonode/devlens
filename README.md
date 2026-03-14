@@ -27,7 +27,7 @@ It's not a linter. It doesn't enforce style. It just helps you *understand* a pr
 **Requirements:** Python 3.10+
 
 ```bash
-git clone https://github.com/yourusername/devlens.git
+git clone https://github.com/ryonode/devlens.git
 cd devlens
 pip install -r requirements.txt
 pip install -e .
